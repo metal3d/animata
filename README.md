@@ -100,4 +100,4 @@ animata.start()
 ```
 
 
-You can also use "next()" and "prev()" method to create a "player" and let user go step forward ans backward.
+You can also use "next()" and "prev()" method to create a "player" and let user go step forward and backward.
